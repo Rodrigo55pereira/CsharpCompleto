@@ -3,7 +3,7 @@ using System.Globalization;
 
 namespace Course
 {
-    class Program
+    class Program   
     {
         static void Main(string[] args)
         {
@@ -61,6 +61,62 @@ namespace Course
             Console.WriteLine($"{nome} tem {idade} anos e tem saldo igual a {saldo:F2} reais");
             // Concatenação 
             Console.WriteLine(nome + " tem " + idade + " anos e tem saldo igual a " + saldo.ToString("F2", CultureInfo.InvariantCulture) + " reais");
+
+            int n6 = 3 + 4 * 2;
+            int n7 = (3 + 4) * 2;
+            int n8 = 17 % 3;
+            double n9 = 10.0 / 8;
+
+            Console.WriteLine(n6);
+            Console.WriteLine(n7);
+            Console.WriteLine(n8);
+            Console.WriteLine(n9);
+
+            // Calculando a formula de bascara - equação segundo grau.
+
+            double a = 1.0, b = -3.0, c = -4.0;
+
+            double delta = Math.Pow(b, 2.0) - 4.0 * a * c;
+
+            double x1 = (-b + Math.Sqrt(delta)) / (2.0 * a);
+            double x2 = (-b - Math.Sqrt(delta)) / (2.0 * a);
+
+            Console.WriteLine(delta);
+            Console.WriteLine(x1);
+            Console.WriteLine(x2);
+
+            /*
+            string frase = Console.ReadLine();
+            string x = Console.ReadLine();
+            string y = Console.ReadLine();
+            string z = Console.ReadLine();
+
+            // Quebrar a String
+            string[] vet = Console.ReadLine().Split(' ');
+            string j = vet[0];
+            string e = vet[1];
+            string w = vet[2];
+
+            Console.WriteLine("Você digitou: ");
+            Console.WriteLine(frase);
+            Console.WriteLine(x);
+            Console.WriteLine(y);
+            Console.WriteLine(z);
+
+            Console.WriteLine(j);
+            Console.WriteLine(e);
+            Console.WriteLine(w);
+            */
+
+            int n10 = int.Parse(Console.ReadLine());
+            char ch = char.Parse(Console.ReadLine());
+            double n11 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+            Console.WriteLine("Você digitou: ");
+            Console.WriteLine(n10);
+            Console.WriteLine(ch);
+            Console.WriteLine(n11.ToString("F2", CultureInfo.InvariantCulture));
+
 
         }
     }
