@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 
 namespace Course
 {
@@ -50,7 +51,16 @@ namespace Course
             Console.WriteLine(idade);
             Console.WriteLine(saldo);
             Console.WriteLine(nome);
-            Console.WriteLine(saldo.ToString("F2"));
+            Console.WriteLine(saldo.ToString("F3"));
+            Console.WriteLine(saldo.ToString("f4"));
+            Console.WriteLine(saldo.ToString("F4", CultureInfo.InvariantCulture));
+
+            // Placeholders
+            Console.WriteLine("{0} tem {1} anos e tem saldo igual a {2:F2} reais", nome, idade, saldo);
+            // Interpolação de Strings
+            Console.WriteLine($"{nome} tem {idade} anos e tem saldo igual a {saldo:F2} reais");
+            // Concatenação 
+            Console.WriteLine(nome + " tem " + idade + " anos e tem saldo igual a " + saldo.ToString("F2", CultureInfo.InvariantCulture) + " reais");
 
         }
     }
