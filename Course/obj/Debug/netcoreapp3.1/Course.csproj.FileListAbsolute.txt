@@ -1,0 +1,11 @@
+C:\project\dotnet\CsharpCompleto\Course\bin\Debug\netcoreapp3.1\Course.exe
+C:\project\dotnet\CsharpCompleto\Course\bin\Debug\netcoreapp3.1\Course.deps.json
+C:\project\dotnet\CsharpCompleto\Course\bin\Debug\netcoreapp3.1\Course.runtimeconfig.json
+C:\project\dotnet\CsharpCompleto\Course\bin\Debug\netcoreapp3.1\Course.runtimeconfig.dev.json
+C:\project\dotnet\CsharpCompleto\Course\bin\Debug\netcoreapp3.1\Course.dll
+C:\project\dotnet\CsharpCompleto\Course\bin\Debug\netcoreapp3.1\Course.pdb
+C:\project\dotnet\CsharpCompleto\Course\obj\Debug\netcoreapp3.1\Course.csprojAssemblyReference.cache
+C:\project\dotnet\CsharpCompleto\Course\obj\Debug\netcoreapp3.1\Course.AssemblyInfoInputs.cache
+C:\project\dotnet\CsharpCompleto\Course\obj\Debug\netcoreapp3.1\Course.AssemblyInfo.cs
+C:\project\dotnet\CsharpCompleto\Course\obj\Debug\netcoreapp3.1\Course.dll
+C:\project\dotnet\CsharpCompleto\Course\obj\Debug\netcoreapp3.1\Course.pdb
