@@ -1,0 +1,11 @@
+C:\project\dotnet\CsharpCompleto\URI_1003\bin\Debug\netcoreapp3.1\URI_1003.exe
+C:\project\dotnet\CsharpCompleto\URI_1003\bin\Debug\netcoreapp3.1\URI_1003.deps.json
+C:\project\dotnet\CsharpCompleto\URI_1003\bin\Debug\netcoreapp3.1\URI_1003.runtimeconfig.json
+C:\project\dotnet\CsharpCompleto\URI_1003\bin\Debug\netcoreapp3.1\URI_1003.runtimeconfig.dev.json
+C:\project\dotnet\CsharpCompleto\URI_1003\bin\Debug\netcoreapp3.1\URI_1003.dll
+C:\project\dotnet\CsharpCompleto\URI_1003\bin\Debug\netcoreapp3.1\URI_1003.pdb
+C:\project\dotnet\CsharpCompleto\URI_1003\obj\Debug\netcoreapp3.1\URI_1003.csprojAssemblyReference.cache
+C:\project\dotnet\CsharpCompleto\URI_1003\obj\Debug\netcoreapp3.1\URI_1003.AssemblyInfoInputs.cache
+C:\project\dotnet\CsharpCompleto\URI_1003\obj\Debug\netcoreapp3.1\URI_1003.AssemblyInfo.cs
+C:\project\dotnet\CsharpCompleto\URI_1003\obj\Debug\netcoreapp3.1\URI_1003.dll
+C:\project\dotnet\CsharpCompleto\URI_1003\obj\Debug\netcoreapp3.1\URI_1003.pdb
