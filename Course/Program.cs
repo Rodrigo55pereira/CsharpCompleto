@@ -7,6 +7,8 @@ namespace Course
     {
         static void Main(string[] args)
         {
+            /*
+             * 
             // TIPOS PRÉ DEFINIDOS
             sbyte n1 = 127;
             int n2 = 1000;
@@ -24,9 +26,9 @@ namespace Course
 
             object obj1 = "Alex Dronw";
 
-            /* TIPOS DO DONET - System
-            SByte
-            */
+            //TIPOS DO DONET - System
+            // SByte
+            
 
             int idade = 32;
             double saldo = 10.35784;
@@ -85,7 +87,7 @@ namespace Course
             Console.WriteLine(x1);
             Console.WriteLine(x2);
 
-            /*
+            
             string frase = Console.ReadLine();
             string x = Console.ReadLine();
             string y = Console.ReadLine();
@@ -106,18 +108,30 @@ namespace Course
             Console.WriteLine(j);
             Console.WriteLine(e);
             Console.WriteLine(w);
+
             */
 
             int n10 = int.Parse(Console.ReadLine());
             char ch = char.Parse(Console.ReadLine());
             double n11 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
+            string[] vet = Console.ReadLine().Split(' ');
+            string nome = vet[0];
+            char sexo = char.Parse(vet[1]);
+            int idade = int.Parse(vet[2]);
+            double altura = double.Parse(vet[3], CultureInfo.InvariantCulture);
+
+
             Console.WriteLine("Você digitou: ");
             Console.WriteLine(n10);
             Console.WriteLine(ch);
             Console.WriteLine(n11.ToString("F2", CultureInfo.InvariantCulture));
 
-
+            Console.WriteLine(nome);
+            Console.WriteLine(sexo);
+            Console.WriteLine(idade);
+            Console.WriteLine(altura.ToString("F2", CultureInfo.InvariantCulture));
+            
         }
     }
 }

@@ -1,0 +1,11 @@
+C:\project\dotnet\CsharpCompleto\Exec02\obj\Debug\netcoreapp3.1\Exec02.csprojAssemblyReference.cache
+C:\project\dotnet\CsharpCompleto\Exec02\obj\Debug\netcoreapp3.1\Exec02.AssemblyInfoInputs.cache
+C:\project\dotnet\CsharpCompleto\Exec02\obj\Debug\netcoreapp3.1\Exec02.AssemblyInfo.cs
+C:\project\dotnet\CsharpCompleto\Exec02\bin\Debug\netcoreapp3.1\Exec02.exe
+C:\project\dotnet\CsharpCompleto\Exec02\bin\Debug\netcoreapp3.1\Exec02.deps.json
+C:\project\dotnet\CsharpCompleto\Exec02\bin\Debug\netcoreapp3.1\Exec02.runtimeconfig.json
+C:\project\dotnet\CsharpCompleto\Exec02\bin\Debug\netcoreapp3.1\Exec02.runtimeconfig.dev.json
+C:\project\dotnet\CsharpCompleto\Exec02\bin\Debug\netcoreapp3.1\Exec02.dll
+C:\project\dotnet\CsharpCompleto\Exec02\bin\Debug\netcoreapp3.1\Exec02.pdb
+C:\project\dotnet\CsharpCompleto\Exec02\obj\Debug\netcoreapp3.1\Exec02.dll
+C:\project\dotnet\CsharpCompleto\Exec02\obj\Debug\netcoreapp3.1\Exec02.pdb
