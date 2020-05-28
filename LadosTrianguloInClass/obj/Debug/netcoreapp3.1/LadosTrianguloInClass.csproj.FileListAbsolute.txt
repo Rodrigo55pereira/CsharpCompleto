@@ -1,0 +1,12 @@
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/LadosTrianguloInClass/bin/Debug/netcoreapp3.1/LadosTrianguloInClass.deps.json
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/LadosTrianguloInClass/bin/Debug/netcoreapp3.1/LadosTrianguloInClass.runtimeconfig.json
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/LadosTrianguloInClass/bin/Debug/netcoreapp3.1/LadosTrianguloInClass.runtimeconfig.dev.json
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/LadosTrianguloInClass/bin/Debug/netcoreapp3.1/LadosTrianguloInClass.dll
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/LadosTrianguloInClass/bin/Debug/netcoreapp3.1/LadosTrianguloInClass.pdb
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/LadosTrianguloInClass/obj/Debug/netcoreapp3.1/LadosTrianguloInClass.csprojAssemblyReference.cache
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/LadosTrianguloInClass/obj/Debug/netcoreapp3.1/LadosTrianguloInClass.AssemblyInfoInputs.cache
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/LadosTrianguloInClass/obj/Debug/netcoreapp3.1/LadosTrianguloInClass.AssemblyInfo.cs
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/LadosTrianguloInClass/obj/Debug/netcoreapp3.1/LadosTrianguloInClass.csproj.CoreCompileInputs.cache
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/LadosTrianguloInClass/obj/Debug/netcoreapp3.1/LadosTrianguloInClass.dll
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/LadosTrianguloInClass/obj/Debug/netcoreapp3.1/LadosTrianguloInClass.pdb
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/LadosTrianguloInClass/obj/Debug/netcoreapp3.1/LadosTrianguloInClass.genruntimeconfig.cache
