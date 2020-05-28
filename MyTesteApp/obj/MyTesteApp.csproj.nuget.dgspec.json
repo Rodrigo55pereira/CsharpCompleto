@@ -1,18 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/URI_1007/URI_1007.csproj": {}
+    "/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/MyTesteApp/MyTesteApp.csproj": {}
   },
   "projects": {
-    "/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/URI_1007/URI_1007.csproj": {
+    "/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/MyTesteApp/MyTesteApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/URI_1007/URI_1007.csproj",
-        "projectName": "URI_1007",
-        "projectPath": "/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/URI_1007/URI_1007.csproj",
+        "projectUniqueName": "/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/MyTesteApp/MyTesteApp.csproj",
+        "projectName": "MyTesteApp",
+        "projectPath": "/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/MyTesteApp/MyTesteApp.csproj",
         "packagesPath": "/Users/rodrigo/.nuget/packages/",
-        "outputPath": "/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/URI_1007/obj/",
+        "outputPath": "/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/MyTesteApp/obj/",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "/Users/rodrigo/.nuget/NuGet/NuGet.Config"
         ],
