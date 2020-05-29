@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Cap4ExeProp02/1.0.0": {
+        "runtime": {
+          "Cap4ExeProp02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cap4ExeProp02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
