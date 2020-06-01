@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Cap4Exemplo03Calculadora/1.0.0": {
+        "runtime": {
+          "Cap4Exemplo03Calculadora.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cap4Exemplo03Calculadora/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

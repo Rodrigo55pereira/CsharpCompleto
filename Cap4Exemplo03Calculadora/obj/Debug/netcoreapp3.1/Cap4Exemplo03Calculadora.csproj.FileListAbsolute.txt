@@ -1,0 +1,12 @@
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap4Exemplo03Calculadora/bin/Debug/netcoreapp3.1/Cap4Exemplo03Calculadora.deps.json
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap4Exemplo03Calculadora/bin/Debug/netcoreapp3.1/Cap4Exemplo03Calculadora.runtimeconfig.json
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap4Exemplo03Calculadora/bin/Debug/netcoreapp3.1/Cap4Exemplo03Calculadora.runtimeconfig.dev.json
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap4Exemplo03Calculadora/bin/Debug/netcoreapp3.1/Cap4Exemplo03Calculadora.dll
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap4Exemplo03Calculadora/bin/Debug/netcoreapp3.1/Cap4Exemplo03Calculadora.pdb
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap4Exemplo03Calculadora/obj/Debug/netcoreapp3.1/Cap4Exemplo03Calculadora.csprojAssemblyReference.cache
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap4Exemplo03Calculadora/obj/Debug/netcoreapp3.1/Cap4Exemplo03Calculadora.AssemblyInfoInputs.cache
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap4Exemplo03Calculadora/obj/Debug/netcoreapp3.1/Cap4Exemplo03Calculadora.AssemblyInfo.cs
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap4Exemplo03Calculadora/obj/Debug/netcoreapp3.1/Cap4Exemplo03Calculadora.csproj.CoreCompileInputs.cache
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap4Exemplo03Calculadora/obj/Debug/netcoreapp3.1/Cap4Exemplo03Calculadora.dll
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap4Exemplo03Calculadora/obj/Debug/netcoreapp3.1/Cap4Exemplo03Calculadora.pdb
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap4Exemplo03Calculadora/obj/Debug/netcoreapp3.1/Cap4Exemplo03Calculadora.genruntimeconfig.cache
