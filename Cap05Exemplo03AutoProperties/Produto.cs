@@ -1,12 +1,12 @@
 using System.Globalization;
 
-namespace Cap5Exemplo02
+namespace Cap05Exemplo03AutoProperties
 {
     public class Produto
     {
         private string _nome;
-        private double _preco;
-        private int _quantidade;
+        public double Preco { get; private set;}
+        public int Quantidade { get; private set;}
 
         public Produto()
         {
@@ -16,10 +16,9 @@ namespace Cap5Exemplo02
         public Produto(string nome, double preco, int quantidade)
         {
             _nome = nome;
-            _preco = preco;
-            _quantidade = quantidade;
+            Preco = preco;
+            Quantidade = quantidade;
         }
-
         public string Nome
         {
             get { return _nome; }
@@ -55,8 +54,7 @@ namespace Cap5Exemplo02
         {
             return _quantidade;
         }
-        */
-
+        
         public double Preco
         {
             get
@@ -73,28 +71,30 @@ namespace Cap5Exemplo02
             }
         }
 
+        */
+
         public double ValorTotalEmEstoque()
         {
-            return _preco * _quantidade;
+            return Preco * Quantidade;
         }
 
         public void AdicionarProdutos(int qte)
         {
-            _quantidade += qte;
+            Quantidade += qte;
         }
 
         public void RemoverProdutos(int qte)
         {
-            _quantidade -= qte;
+            Quantidade -= qte;
         }
 
         public override string ToString()
         {
             return _nome
                 + ", $ "
-                + _preco.ToString("F2", CultureInfo.InvariantCulture)
+                + Preco.ToString("F2", CultureInfo.InvariantCulture)
                 + ", "
-                + _quantidade
+                + Quantidade
                 + " Unidades, Total: $ "
                 + ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture);
         }

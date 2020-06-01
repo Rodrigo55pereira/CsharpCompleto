@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Cap5Exemplo02
+namespace Cap05Exemplo03AutoProperties
 {
     class Program
     {
