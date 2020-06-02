@@ -1,0 +1,12 @@
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap05Exe01/bin/Debug/netcoreapp3.1/Cap05Exe01.deps.json
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap05Exe01/bin/Debug/netcoreapp3.1/Cap05Exe01.runtimeconfig.json
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap05Exe01/bin/Debug/netcoreapp3.1/Cap05Exe01.runtimeconfig.dev.json
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap05Exe01/bin/Debug/netcoreapp3.1/Cap05Exe01.dll
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap05Exe01/bin/Debug/netcoreapp3.1/Cap05Exe01.pdb
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap05Exe01/obj/Debug/netcoreapp3.1/Cap05Exe01.csprojAssemblyReference.cache
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap05Exe01/obj/Debug/netcoreapp3.1/Cap05Exe01.AssemblyInfoInputs.cache
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap05Exe01/obj/Debug/netcoreapp3.1/Cap05Exe01.AssemblyInfo.cs
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap05Exe01/obj/Debug/netcoreapp3.1/Cap05Exe01.csproj.CoreCompileInputs.cache
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap05Exe01/obj/Debug/netcoreapp3.1/Cap05Exe01.dll
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap05Exe01/obj/Debug/netcoreapp3.1/Cap05Exe01.pdb
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap05Exe01/obj/Debug/netcoreapp3.1/Cap05Exe01.genruntimeconfig.cache
