@@ -14,7 +14,7 @@ namespace Cap05Exe01
             string titular = Console.ReadLine();
 
             Console.Write("Haverá depósito inicial (s/n)? ");
-            string confirmacaoDeposito = Console.ReadLine();
+            char confirmacaoDeposito = char.Parse(Console.ReadLine());
 
             ContaBancaria conta = new ContaBancaria
             {
@@ -22,7 +22,7 @@ namespace Cap05Exe01
                 Titular = titular
             };
 
-            if (confirmacaoDeposito == "s")
+            if (confirmacaoDeposito == 's' || confirmacaoDeposito == 'S')
             {
                 Console.Write("Entre com o valor de depósito inicial: ");
                 double depositoInicial = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);

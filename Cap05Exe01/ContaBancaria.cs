@@ -26,8 +26,7 @@ namespace Cap05Exe01
 
         public void Saque(double qtd)
         {
-            double saldoRestante = Saldo - qtd;
-            Saldo = saldoRestante - 5.0;
+            Saldo -= qtd + 5.0;
         }
 
         public override string ToString()
