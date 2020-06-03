@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Cap06Exe03MediaAltura/1.0.0": {
+        "runtime": {
+          "Cap06Exe03MediaAltura.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cap06Exe03MediaAltura/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
