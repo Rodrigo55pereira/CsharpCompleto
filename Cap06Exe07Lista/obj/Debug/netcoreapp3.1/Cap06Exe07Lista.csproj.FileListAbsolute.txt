@@ -1,0 +1,12 @@
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap06Exe07Lista/bin/Debug/netcoreapp3.1/Cap06Exe07Lista.deps.json
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap06Exe07Lista/bin/Debug/netcoreapp3.1/Cap06Exe07Lista.runtimeconfig.json
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap06Exe07Lista/bin/Debug/netcoreapp3.1/Cap06Exe07Lista.runtimeconfig.dev.json
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap06Exe07Lista/bin/Debug/netcoreapp3.1/Cap06Exe07Lista.dll
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap06Exe07Lista/bin/Debug/netcoreapp3.1/Cap06Exe07Lista.pdb
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap06Exe07Lista/obj/Debug/netcoreapp3.1/Cap06Exe07Lista.csprojAssemblyReference.cache
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap06Exe07Lista/obj/Debug/netcoreapp3.1/Cap06Exe07Lista.AssemblyInfoInputs.cache
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap06Exe07Lista/obj/Debug/netcoreapp3.1/Cap06Exe07Lista.AssemblyInfo.cs
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap06Exe07Lista/obj/Debug/netcoreapp3.1/Cap06Exe07Lista.csproj.CoreCompileInputs.cache
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap06Exe07Lista/obj/Debug/netcoreapp3.1/Cap06Exe07Lista.dll
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap06Exe07Lista/obj/Debug/netcoreapp3.1/Cap06Exe07Lista.pdb
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap06Exe07Lista/obj/Debug/netcoreapp3.1/Cap06Exe07Lista.genruntimeconfig.cache
