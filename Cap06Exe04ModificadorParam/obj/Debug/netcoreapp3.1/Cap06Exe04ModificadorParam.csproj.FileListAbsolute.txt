@@ -1,0 +1,12 @@
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap06Exe04ModificadorParam/bin/Debug/netcoreapp3.1/Cap06Exe04ModificadorParam.deps.json
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap06Exe04ModificadorParam/bin/Debug/netcoreapp3.1/Cap06Exe04ModificadorParam.runtimeconfig.json
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap06Exe04ModificadorParam/bin/Debug/netcoreapp3.1/Cap06Exe04ModificadorParam.runtimeconfig.dev.json
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap06Exe04ModificadorParam/bin/Debug/netcoreapp3.1/Cap06Exe04ModificadorParam.dll
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap06Exe04ModificadorParam/bin/Debug/netcoreapp3.1/Cap06Exe04ModificadorParam.pdb
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap06Exe04ModificadorParam/obj/Debug/netcoreapp3.1/Cap06Exe04ModificadorParam.csprojAssemblyReference.cache
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap06Exe04ModificadorParam/obj/Debug/netcoreapp3.1/Cap06Exe04ModificadorParam.AssemblyInfoInputs.cache
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap06Exe04ModificadorParam/obj/Debug/netcoreapp3.1/Cap06Exe04ModificadorParam.AssemblyInfo.cs
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap06Exe04ModificadorParam/obj/Debug/netcoreapp3.1/Cap06Exe04ModificadorParam.csproj.CoreCompileInputs.cache
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap06Exe04ModificadorParam/obj/Debug/netcoreapp3.1/Cap06Exe04ModificadorParam.dll
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap06Exe04ModificadorParam/obj/Debug/netcoreapp3.1/Cap06Exe04ModificadorParam.pdb
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap06Exe04ModificadorParam/obj/Debug/netcoreapp3.1/Cap06Exe04ModificadorParam.genruntimeconfig.cache
