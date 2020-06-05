@@ -1,0 +1,12 @@
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap06ExeProp09Matriz/bin/Debug/netcoreapp3.1/Cap06ExeProp09Matriz.deps.json
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap06ExeProp09Matriz/bin/Debug/netcoreapp3.1/Cap06ExeProp09Matriz.runtimeconfig.json
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap06ExeProp09Matriz/bin/Debug/netcoreapp3.1/Cap06ExeProp09Matriz.runtimeconfig.dev.json
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap06ExeProp09Matriz/bin/Debug/netcoreapp3.1/Cap06ExeProp09Matriz.dll
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap06ExeProp09Matriz/bin/Debug/netcoreapp3.1/Cap06ExeProp09Matriz.pdb
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap06ExeProp09Matriz/obj/Debug/netcoreapp3.1/Cap06ExeProp09Matriz.csprojAssemblyReference.cache
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap06ExeProp09Matriz/obj/Debug/netcoreapp3.1/Cap06ExeProp09Matriz.AssemblyInfoInputs.cache
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap06ExeProp09Matriz/obj/Debug/netcoreapp3.1/Cap06ExeProp09Matriz.AssemblyInfo.cs
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap06ExeProp09Matriz/obj/Debug/netcoreapp3.1/Cap06ExeProp09Matriz.csproj.CoreCompileInputs.cache
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap06ExeProp09Matriz/obj/Debug/netcoreapp3.1/Cap06ExeProp09Matriz.dll
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap06ExeProp09Matriz/obj/Debug/netcoreapp3.1/Cap06ExeProp09Matriz.pdb
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap06ExeProp09Matriz/obj/Debug/netcoreapp3.1/Cap06ExeProp09Matriz.genruntimeconfig.cache
