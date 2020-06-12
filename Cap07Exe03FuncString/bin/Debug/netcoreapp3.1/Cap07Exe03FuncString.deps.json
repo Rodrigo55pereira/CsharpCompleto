@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Cap07Exe03FuncString/1.0.0": {
+        "runtime": {
+          "Cap07Exe03FuncString.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cap07Exe03FuncString/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

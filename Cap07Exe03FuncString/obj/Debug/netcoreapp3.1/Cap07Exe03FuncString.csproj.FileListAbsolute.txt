@@ -1,0 +1,12 @@
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap07Exe03FuncString/bin/Debug/netcoreapp3.1/Cap07Exe03FuncString.deps.json
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap07Exe03FuncString/bin/Debug/netcoreapp3.1/Cap07Exe03FuncString.runtimeconfig.json
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap07Exe03FuncString/bin/Debug/netcoreapp3.1/Cap07Exe03FuncString.runtimeconfig.dev.json
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap07Exe03FuncString/bin/Debug/netcoreapp3.1/Cap07Exe03FuncString.dll
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap07Exe03FuncString/bin/Debug/netcoreapp3.1/Cap07Exe03FuncString.pdb
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap07Exe03FuncString/obj/Debug/netcoreapp3.1/Cap07Exe03FuncString.csprojAssemblyReference.cache
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap07Exe03FuncString/obj/Debug/netcoreapp3.1/Cap07Exe03FuncString.AssemblyInfoInputs.cache
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap07Exe03FuncString/obj/Debug/netcoreapp3.1/Cap07Exe03FuncString.AssemblyInfo.cs
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap07Exe03FuncString/obj/Debug/netcoreapp3.1/Cap07Exe03FuncString.csproj.CoreCompileInputs.cache
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap07Exe03FuncString/obj/Debug/netcoreapp3.1/Cap07Exe03FuncString.dll
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap07Exe03FuncString/obj/Debug/netcoreapp3.1/Cap07Exe03FuncString.pdb
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap07Exe03FuncString/obj/Debug/netcoreapp3.1/Cap07Exe03FuncString.genruntimeconfig.cache
