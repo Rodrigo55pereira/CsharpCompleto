@@ -1,0 +1,12 @@
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap07Exe02ExpressaoTernaria/bin/Debug/netcoreapp3.1/Cap07Exe02ExpressaoTernaria.deps.json
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap07Exe02ExpressaoTernaria/bin/Debug/netcoreapp3.1/Cap07Exe02ExpressaoTernaria.runtimeconfig.json
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap07Exe02ExpressaoTernaria/bin/Debug/netcoreapp3.1/Cap07Exe02ExpressaoTernaria.runtimeconfig.dev.json
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap07Exe02ExpressaoTernaria/bin/Debug/netcoreapp3.1/Cap07Exe02ExpressaoTernaria.dll
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap07Exe02ExpressaoTernaria/bin/Debug/netcoreapp3.1/Cap07Exe02ExpressaoTernaria.pdb
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap07Exe02ExpressaoTernaria/obj/Debug/netcoreapp3.1/Cap07Exe02ExpressaoTernaria.csprojAssemblyReference.cache
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap07Exe02ExpressaoTernaria/obj/Debug/netcoreapp3.1/Cap07Exe02ExpressaoTernaria.AssemblyInfoInputs.cache
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap07Exe02ExpressaoTernaria/obj/Debug/netcoreapp3.1/Cap07Exe02ExpressaoTernaria.AssemblyInfo.cs
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap07Exe02ExpressaoTernaria/obj/Debug/netcoreapp3.1/Cap07Exe02ExpressaoTernaria.csproj.CoreCompileInputs.cache
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap07Exe02ExpressaoTernaria/obj/Debug/netcoreapp3.1/Cap07Exe02ExpressaoTernaria.dll
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap07Exe02ExpressaoTernaria/obj/Debug/netcoreapp3.1/Cap07Exe02ExpressaoTernaria.pdb
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap07Exe02ExpressaoTernaria/obj/Debug/netcoreapp3.1/Cap07Exe02ExpressaoTernaria.genruntimeconfig.cache

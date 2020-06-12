@@ -1,0 +1,12 @@
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap07Exe02SwitchCase/bin/Debug/netcoreapp3.1/Cap07Exe02SwitchCase.deps.json
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap07Exe02SwitchCase/bin/Debug/netcoreapp3.1/Cap07Exe02SwitchCase.runtimeconfig.json
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap07Exe02SwitchCase/bin/Debug/netcoreapp3.1/Cap07Exe02SwitchCase.runtimeconfig.dev.json
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap07Exe02SwitchCase/bin/Debug/netcoreapp3.1/Cap07Exe02SwitchCase.dll
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap07Exe02SwitchCase/bin/Debug/netcoreapp3.1/Cap07Exe02SwitchCase.pdb
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap07Exe02SwitchCase/obj/Debug/netcoreapp3.1/Cap07Exe02SwitchCase.csprojAssemblyReference.cache
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap07Exe02SwitchCase/obj/Debug/netcoreapp3.1/Cap07Exe02SwitchCase.AssemblyInfoInputs.cache
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap07Exe02SwitchCase/obj/Debug/netcoreapp3.1/Cap07Exe02SwitchCase.AssemblyInfo.cs
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap07Exe02SwitchCase/obj/Debug/netcoreapp3.1/Cap07Exe02SwitchCase.csproj.CoreCompileInputs.cache
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap07Exe02SwitchCase/obj/Debug/netcoreapp3.1/Cap07Exe02SwitchCase.dll
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap07Exe02SwitchCase/obj/Debug/netcoreapp3.1/Cap07Exe02SwitchCase.pdb
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap07Exe02SwitchCase/obj/Debug/netcoreapp3.1/Cap07Exe02SwitchCase.genruntimeconfig.cache
