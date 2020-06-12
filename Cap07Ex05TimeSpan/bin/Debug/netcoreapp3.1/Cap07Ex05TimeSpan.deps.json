@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Cap07Ex05TimeSpan/1.0.0": {
+        "runtime": {
+          "Cap07Ex05TimeSpan.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cap07Ex05TimeSpan/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

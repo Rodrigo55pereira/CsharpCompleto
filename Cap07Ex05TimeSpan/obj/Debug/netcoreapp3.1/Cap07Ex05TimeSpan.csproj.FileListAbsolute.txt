@@ -1,0 +1,12 @@
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap07Ex05TimeSpan/bin/Debug/netcoreapp3.1/Cap07Ex05TimeSpan.deps.json
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap07Ex05TimeSpan/bin/Debug/netcoreapp3.1/Cap07Ex05TimeSpan.runtimeconfig.json
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap07Ex05TimeSpan/bin/Debug/netcoreapp3.1/Cap07Ex05TimeSpan.runtimeconfig.dev.json
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap07Ex05TimeSpan/bin/Debug/netcoreapp3.1/Cap07Ex05TimeSpan.dll
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap07Ex05TimeSpan/bin/Debug/netcoreapp3.1/Cap07Ex05TimeSpan.pdb
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap07Ex05TimeSpan/obj/Debug/netcoreapp3.1/Cap07Ex05TimeSpan.csprojAssemblyReference.cache
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap07Ex05TimeSpan/obj/Debug/netcoreapp3.1/Cap07Ex05TimeSpan.AssemblyInfoInputs.cache
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap07Ex05TimeSpan/obj/Debug/netcoreapp3.1/Cap07Ex05TimeSpan.AssemblyInfo.cs
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap07Ex05TimeSpan/obj/Debug/netcoreapp3.1/Cap07Ex05TimeSpan.csproj.CoreCompileInputs.cache
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap07Ex05TimeSpan/obj/Debug/netcoreapp3.1/Cap07Ex05TimeSpan.dll
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap07Ex05TimeSpan/obj/Debug/netcoreapp3.1/Cap07Ex05TimeSpan.pdb
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap07Ex05TimeSpan/obj/Debug/netcoreapp3.1/Cap07Ex05TimeSpan.genruntimeconfig.cache
