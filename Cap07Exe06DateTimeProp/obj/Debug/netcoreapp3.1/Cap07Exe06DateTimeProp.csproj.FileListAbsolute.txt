@@ -1,0 +1,12 @@
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap07Exe06DateTimeProp/bin/Debug/netcoreapp3.1/Cap07Exe06DateTimeProp.deps.json
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap07Exe06DateTimeProp/bin/Debug/netcoreapp3.1/Cap07Exe06DateTimeProp.runtimeconfig.json
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap07Exe06DateTimeProp/bin/Debug/netcoreapp3.1/Cap07Exe06DateTimeProp.runtimeconfig.dev.json
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap07Exe06DateTimeProp/bin/Debug/netcoreapp3.1/Cap07Exe06DateTimeProp.dll
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap07Exe06DateTimeProp/bin/Debug/netcoreapp3.1/Cap07Exe06DateTimeProp.pdb
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap07Exe06DateTimeProp/obj/Debug/netcoreapp3.1/Cap07Exe06DateTimeProp.csprojAssemblyReference.cache
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap07Exe06DateTimeProp/obj/Debug/netcoreapp3.1/Cap07Exe06DateTimeProp.AssemblyInfoInputs.cache
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap07Exe06DateTimeProp/obj/Debug/netcoreapp3.1/Cap07Exe06DateTimeProp.AssemblyInfo.cs
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap07Exe06DateTimeProp/obj/Debug/netcoreapp3.1/Cap07Exe06DateTimeProp.csproj.CoreCompileInputs.cache
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap07Exe06DateTimeProp/obj/Debug/netcoreapp3.1/Cap07Exe06DateTimeProp.dll
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap07Exe06DateTimeProp/obj/Debug/netcoreapp3.1/Cap07Exe06DateTimeProp.pdb
+/Users/rodrigo/Desktop/Rodrigo/project/csharp/CsharpCompleto/Cap07Exe06DateTimeProp/obj/Debug/netcoreapp3.1/Cap07Exe06DateTimeProp.genruntimeconfig.cache
